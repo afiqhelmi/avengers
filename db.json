@@ -1,0 +1,115 @@
+{
+    "avengersList": [
+	  {
+		"id": 1000,
+		"name": "Iron Man",
+		"city": "Long Island",
+		"state": "New York",
+		"photo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Iron_Man_%28circa_2018%29.png/220px-Iron_Man_%28circa_2018%29.png",
+		"abilities": "Genius-level intellect, Proficient scientist and engineer, Utilizes powered armor suit",
+		"teamAffiliation": "Avengers, Department of Defense, Guardians of the Galaxy, Illuminati, Mighty Avengers, New Avengers, S.H.I.E.L.D., Stark Industries",
+		"fullname": "Anthony Edward Stark"
+	  },
+	  {
+		"id": 1001,
+		"name": "Scarlet Witch",
+		"city": "Wundagore",
+		"state": "Transia",
+		"photo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/ScarletWitch.jpg/220px-ScarletWitch.jpg",
+		"abilities": "Reality manipulation, Chaos magic, Telekinesis, Telepathy, Energy projection",
+		"teamAffiliation": "Avengers, Brotherhood of Mutants, Force Works, Mighty Avengers",
+		"fullname": "Wanda Maximoff"
+	  },
+	  {
+		"id": 1002,
+		"name": "Hulk",
+		"city": "Dayton",
+		"state": "Ohio",
+		"photo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Hulk_%28circa_2019%29.png/220px-Hulk_%28circa_2019%29.png",
+		"abilities": "Superhuman strength, durability, regeneration, resistance to injury, genius-level intellect (as Bruce Banner)",
+		"teamAffiliation": "Avengers, Defenders, Fantastic Four, Pantheon, S.H.I.E.L.D., Warbound",
+		"fullname": "Robert Bruce Banner"
+	  },
+	  {
+		"id": 1003,
+		"name": "Captain America",
+		"city": "New York City",
+		"state": "New York",
+		"photo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/CaptainAmericaHughes.jpg/220px-CaptainAmericaHughes.jpg",
+		"abilities": "Peak human strength, agility, endurance, master tactician, expert martial artist, wields vibranium shield",
+		"teamAffiliation": "Avengers, S.H.I.E.L.D., Invaders, Secret Avengers, Illuminati",
+		"fullname": "Steven Grant Rogers"
+	  },
+	  {
+		"id": 1004,
+		"name": "Thor",
+		"city": "Asgard",
+		"state": "Asgard",
+		"photo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Chris_Hemsworth_as_Thor.jpg/220px-Chris_Hemsworth_as_Thor.jpg",
+		"abilities": "Superhuman strength, durability, longevity, weather manipulation, flight, wields Mjolnir",
+		"teamAffiliation": "Avengers, Warriors Three, Asgardians, God Squad, Thor Corps",
+		"fullname": "Thor Odinson"
+	  },
+	  {
+		"id": 1005,
+		"name": "Hawkeye",
+		"city": "Waverly",
+		"state": "Iowa",
+		"photo": "https://upload.wikimedia.org/wikipedia/en/9/99/Hawkeye_%28Clinton_Barton%29.png",
+		"abilities": "Master archer, expert marksman, hand-to-hand combatant, acrobat, tactician",
+		"teamAffiliation": "Avengers, S.H.I.E.L.D., Thunderbolts, West Coast Avengers, Secret Avengers",
+		"fullname": "Clinton Francis Barton"
+	  },
+	  {
+		"id": 1006,
+		"name": "Black Widow",
+		"city": "Stalingrad",
+		"state": "Russian SFSR",
+		"photo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Black_Widow_%282021_film%29_poster.jpg/220px-Black_Widow_%282021_film%29_poster.jpg",
+		"abilities": "Expert spy, martial artist, acrobat, marksman, tactical expert, enhanced physiology",
+		"teamAffiliation": "Avengers, S.H.I.E.L.D., KGB, Champions, Secret Avengers",
+		"fullname": "Natalia Alianovna Romanova"
+	  },
+	  {
+		"id": 1007,
+		"name": "Black Panther",
+		"city": "Wakanda",
+		"state": "Wakanda",
+		"photo": "https://upload.wikimedia.org/wikipedia/en/d/d6/Black_Panther_%28film%29_poster.jpg",
+		"abilities": "Enhanced strength, speed, agility, senses, genius intellect, martial artist, vibranium suit",
+		"teamAffiliation": "Avengers, Illuminati, Fantastic Four, Ultimates, Wakandan Royal Family",
+		"fullname": "T'Challa"
+	  },
+	  {
+		"id": 1008,
+		"name": "Vision",
+		"city": "New York City",
+		"state": "New York",
+		"photo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Avengers_Vol_4_24.1.jpg/250px-Avengers_Vol_4_24.1.jpg",
+		"abilities": "Superhuman strength, durability, flight, energy projection, density manipulation, technopathy",
+		"teamAffiliation": "Avengers, Mighty Avengers, Young Avengers, West Coast Avengers",
+		"fullname": "Victor Shade"
+	  },
+	  {
+		"id": 1009,
+		"name": "Falcon",
+		"city": "Harlem",
+		"state": "New York",
+		"photo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TheFalcon.jpg/220px-TheFalcon.jpg",
+		"abilities": "Expert hand-to-hand combatant, aerial combat, telepathic connection with birds, uses winged flight suit",
+		"teamAffiliation": "Avengers, S.H.I.E.L.D., Secret Avengers, Mighty Avengers, Defenders",
+		"fullname": "Samuel Thomas Wilson"
+	  },
+	  {
+		"id": 1010,
+		"name": "War Machine",
+		"city": "Philadelphia",
+		"state": "Pennsylvania",
+		"photo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/War_Machine_%28James_Rhodes%29.jpg/220px-War_Machine_%28James_Rhodes%29.jpg",
+		"abilities": "Powered armor suit, superhuman strength, flight, advanced weaponry, tactical expert",
+		"teamAffiliation": "Avengers, S.H.I.E.L.D., Department of Defense, Stark Industries, Force Works",
+		"fullname": "James Rupert Rhodes"
+	  }
+	]
+}
+
